@@ -1,0 +1,3 @@
+[submodule "Mern-SocialMedia-Backend"]
+	path = Mern-SocialMedia-Backend
+	url = https://github.com/Abhikgupta101/Mern-SocialMedia-Backend
